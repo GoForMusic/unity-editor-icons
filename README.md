@@ -1,4 +1,4 @@
-Unity Editor Built-in Icons
+Unity Editor Built-in Icons - Gizmos
 ==============================
 
 | Icon | Name | File ID |
